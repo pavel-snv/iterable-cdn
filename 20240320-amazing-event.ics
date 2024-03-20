@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 BEGIN:VEVENT
 CLASS:PUBLIC
-DESCRIPTION:Amazing Event\nDate and Time - Mar 20\, 2024 12:00 AM to 11:00 PM\nVenue - https://www.youtube.com/watch?v=EIHAt93_Vs4\nJoin Us THis THursday\n
-DTSTART:20240320T050000Z
-DTEND:20240321T040000Z
+DESCRIPTION:Amazing Event\nDate and Time - Mar 22, 2024 12:00 AM to 11:00 PM\nVenue - https://www.youtube.com/watch?v=EIHAt93_Vs4\nJoin Us This Thursday\n
+DTSTART:20240322T050000Z
+DTEND:20240323T040000Z
 LOCATION:https://www.youtube.com/watch?v=EIHAt93_Vs4
 SUMMARY;LANGUAGE=en-us:Amazing Event
 BEGIN:VALARM
